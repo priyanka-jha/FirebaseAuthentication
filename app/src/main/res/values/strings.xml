@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Firebase</string>
+    <string name="hint_name">Full Name</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="btn_sign_in">Sign In</string>
+    <string name="btn_sign_up">Sign Up</string>
+    <string name="txt_forgot">Forgot Password?</string>
+    <string name="text_register">Not registered yet?Register Here</string>
+    <string name="text_login">Already registered?SignIn Here</string>
+    <string name="err_msg_name">Enter your full name</string>
+    <string name="err_msg_email">Enter valid email address</string>
+    <string name="err_msg_password">Enter the password</string>
+    <string name="err_msg_password2">Password should be of minimum 8 characters</string>
+</resources>
